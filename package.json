@@ -1,0 +1,15 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kalvin Sweatt",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
